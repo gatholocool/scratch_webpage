@@ -1,3 +1,8 @@
 body{
-    background: red;
+    background: rgb(175, 211, 47);
+}
+.taniyama{
+    background-color: aliceblue;
+    text-align: left;
+    font-family: monospace;
 }
